@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org/) developer portfolio template to help you bootstrap your site with Ben Elstub's [`developer-portfolio-template`](https://github.com/benelstub/developer-portfolio-template).
 
-This template has been created to give you a quick, simple, and easily customizable starter for your developer portfolio site. I highly recommend you use this site only as a starting point to have some sort of presence on the web. You should seek to customize this as much as possible (or scrap it entirely when you're ready to build by yourself).
+This template has been created to give you a quick, simple, and easily customisable starter for your developer portfolio site. I highly recommend you use this site only as a starting point to have some sort of presence on the web. You should seek to customize this as much as possible (or scrap it entirely when you're ready to build by yourself).
 
 Happy coding!
 
