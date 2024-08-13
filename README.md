@@ -1,4 +1,4 @@
-# Developer Portfolio Template by Ben Elstub
+# Developer Portfolio Template
 
 This is a [Next.js](https://nextjs.org/) developer portfolio template to help you bootstrap your site with Ben Elstub's [`developer-portfolio-template`](https://github.com/benelstub/developer-portfolio-template).
 
